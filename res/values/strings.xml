@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">LEAF One-Click</string>
+    <string name="title_activity_main">LEAF</string>
+
+    <string name="leaf_url_base">http://www.your_domain.com/leaf/</string>
+    <string name="leaf_url_guid">12345678-1234-1234-1234-123456789AB</string>
+
+</resources>
